@@ -1,0 +1,23 @@
+.mybody{
+    background: linear-gradient(to right, #ff6666 -1%, #ffcc99 100%);
+}
+
+.mb-3{
+    display:block;
+    width:40%;
+    margin:0 auto;
+}
+
+.myform{
+    margin-top: 15%;
+}
+
+.loginbutton{
+    width: auto;
+    margin-top: 3%;
+    border-radius: 10%;
+}
+
+.mynav{
+    color: #ff6666;
+}
